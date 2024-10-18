@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\FirstQuest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26E65077-CBF9-45F1-8920-3B8A7CA78076}|BLL\\BLL.csproj|c:\\users\\student\\desktop\\firstquest\\bll\\mappers\\locatairemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E65077-CBF9-45F1-8920-3B8A7CA78076}|BLL\\BLL.csproj|solutionrelative:bll\\mappers\\locatairemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BBBBFE-15BD-4605-8FE2-3050D45B4369}|DAL\\DAL.csproj|c:\\users\\student\\desktop\\firstquest\\dal\\entities\\locataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BBBBFE-15BD-4605-8FE2-3050D45B4369}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\locataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BBBBFE-15BD-4605-8FE2-3050D45B4369}|DAL\\DAL.csproj|c:\\users\\student\\desktop\\firstquest\\dal\\repositories\\locarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BBBBFE-15BD-4605-8FE2-3050D45B4369}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\locarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E65077-CBF9-45F1-8920-3B8A7CA78076}|BLL\\BLL.csproj|c:\\users\\student\\desktop\\firstquest\\bll\\services\\locataireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E65077-CBF9-45F1-8920-3B8A7CA78076}|BLL\\BLL.csproj|solutionrelative:bll\\services\\locataireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FirstQuest\\DAL\\Repositories\\LocaRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\LocaRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FirstQuest\\DAL\\Repositories\\LocaRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\LocaRepository.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAwHkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:48:09.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocataireService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FirstQuest\\BLL\\Services\\LocataireService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\LocataireService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FirstQuest\\BLL\\Services\\LocataireService.cs",
+              "RelativeToolTip": "BLL\\Services\\LocataireService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA8wCcAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:32:04.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Locataire.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FirstQuest\\DAL\\Entities\\Locataire.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Locataire.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FirstQuest\\DAL\\Entities\\Locataire.cs",
+              "RelativeToolTip": "DAL\\Entities\\Locataire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:25:47.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocataireMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FirstQuest\\BLL\\Mappers\\LocataireMapper.cs",
+              "RelativeDocumentMoniker": "BLL\\Mappers\\LocataireMapper.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FirstQuest\\BLL\\Mappers\\LocataireMapper.cs",
+              "RelativeToolTip": "BLL\\Mappers\\LocataireMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:11:22.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\FirstQuest\Database\bin\Debug\Database.dacpac
+C:\Users\Student\Desktop\FirstQuest\Database\bin\Debug\Database.dll
+C:\Users\Student\Desktop\FirstQuest\Database\bin\Debug\Database.pdb
+C:\Users\Student\Desktop\FirstQuest\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
+C:\Users\Student\Desktop\FirstQuest\Database\obj\Debug\Model.xml
+C:\Users\Student\Desktop\FirstQuest\Database\obj\Debug\refactor.xml
+C:\Users\Student\Desktop\FirstQuest\Database\obj\Debug\postdeploy.sql
+C:\Users\Student\Desktop\FirstQuest\Database\obj\Debug\predeploy.sql
+C:\Users\Student\Desktop\FirstQuest\Database\obj\Debug\Database.dll
+C:\Users\Student\Desktop\FirstQuest\Database\obj\Debug\Database.pdb
